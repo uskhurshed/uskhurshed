@@ -154,8 +154,7 @@
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=uskhurshed&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uskhurshed&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="biybiruza" /></a> </p>
 
 ## Connect with Me
 
