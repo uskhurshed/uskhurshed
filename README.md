@@ -14,7 +14,7 @@
 
 <h2>💼 Professional Experience</h2>
 
-<p><strong>Position</strong>: Android Developer<br>
+<p><strong>Position</strong>: Android developer at <a href="https://itservice.tj/" target="_blank">ITService Khujand</a>.<br>
 <strong>Duration</strong>: 11.12.2023 - Present</p>
 <ul>
     <li>Led the development of cutting-edge Android applications, focusing on performance optimization, UI/UX enhancement, and seamless integration with third-party services.</li>
@@ -24,9 +24,8 @@
     <li>Played a key role in integrating advanced features such as machine learning models (TensorFlow Lite), augmented reality (ARCore), and custom animations.</li>
 </ul>
 
-<h3>EasyApps</h3>
-<p><strong>Position</strong>: Android Developer<br>
-<strong>Duration</strong>: 15.03.2020 - Present</p>
+<p><strong>Position</strong>: Android Developer at <a href="https://play.google.com/store/apps/dev?id=7468148183308310395" target="_blank">Easy Apps Ltd.</a>.<br>
+<strong>Duration</strong>: 15.03.2020 - 11.12.2023</p>
 <ul>
     <li>Developed and maintained multiple Android applications, ensuring compatibility across various devices and Android versions.</li>
     <li>Integrated cloud services, including Firebase and AWS, to add backend functionalities like real-time databases, authentication, and cloud messaging.</li>
