@@ -29,7 +29,6 @@
 <ul>
     <li>Developed and maintained multiple Android applications, ensuring compatibility across various devices and Android versions.</li>
     <li>Integrated cloud services, including Firebase and AWS, to add backend functionalities like real-time databases, authentication, and cloud messaging.</li>
-    <li>Implemented CI/CD pipelines using GitHub Actions to automate testing, building, and deployment processes.</li>
     <li>Collaborated closely with the design team to create intuitive and visually appealing user interfaces using XML and custom views.</li>
     <li>Managed app releases on the Google Play Store, including handling versioning, beta testing, and post-release monitoring.</li>
     <li>Engaged in performance tuning and optimization, resulting in a significant reduction in app load times and battery consumption.</li>
@@ -60,10 +59,6 @@
         alt="Hilt DI">
     <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"
         alt="Firebase">
-    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"
-        alt="GraphQL">
-    <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%2FGitHub_Actions-%232D2D2D.svg?style=for-the-badge&logo=github-actions&logoColor=white"
-        alt="CI/CD">
     <img src="https://img.shields.io/badge/Dagger_Hilt-%232D2D2D.svg?style=for-the-badge&logo=dagger&logoColor=white"
         alt="Dagger Hilt">
     <img src="https://img.shields.io/badge/TDD-JUnit%2FMokito-%232D2D2D.svg?style=for-the-badge&logo=junit&logoColor=white"
@@ -86,10 +81,6 @@
         alt="SQLite">
     <img src="https://img.shields.io/badge/FCM-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"
         alt="Firebase Cloud Messaging">
-    <img src="https://img.shields.io/badge/ARCore-%23000000.svg?style=for-the-badge&logo=google-ar&logoColor=white"
-        alt="ARCore">
-    <img src="https://img.shields.io/badge/ARKit-%23000000.svg?style=for-the-badge&logo=arkit&logoColor=white"
-        alt="ARKit">
     <img src="https://img.shields.io/badge/Proguard-%23636469.svg?style=for-the-badge&logo=proguard&logoColor=white"
         alt="Proguard">
     <img src="https://img.shields.io/badge/Serverless-Firebase_Functions-%23232F3E.svg?style=for-the-badge&logo=firebase&logoColor=white"
@@ -113,9 +104,7 @@
     <li><strong>RESTful API Development</strong>: Expertise in developing and consuming RESTful APIs using Retrofit, OkHttp, and Gson for efficient network communication.</li>
     <li><strong>Git & Version Control</strong>: Experienced in using Git for source control management, with a solid understanding of branching, merging, and pull requests.</li>
     <li><strong>Dependency Injection (Dagger Hilt/Koin)</strong>: Proficient in implementing dependency injection using Dagger Hilt or Koin, promoting modularity and testability in Android applications.</li>
-    <li><strong>CI/CD Pipelines (Jenkins/GitHub Actions)</strong>: Experience in setting up and maintaining CI/CD pipelines to automate testing, building, and deployment of applications.</li>
     <li><strong>Unit Testing & TDD</strong>: Strong knowledge in writing unit tests using JUnit, Mockito, and practicing Test-Driven Development (TDD) to ensure high-quality code.</li>
-    <li><strong>GraphQL</strong>: Understanding of GraphQL principles and experience in querying and integrating GraphQL APIs in mobile applications.</li>
     <li><strong>Cloud Services (AWS/GCP)</strong>: Familiarity with deploying and managing applications using cloud platforms like AWS and Google Cloud Platform.</li>
     <li><strong>Multithreading & Concurrency</strong>: Expertise in handling multithreaded operations in Android, ensuring optimal performance and responsiveness.</li>
     <li><strong>Custom Views & Animations</strong>: Skilled in creating custom views and implementing advanced animations to enhance user experience in Android apps.</li>
