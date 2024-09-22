@@ -101,7 +101,49 @@
         alt="Accessibility Features">
     <img src="https://img.shields.io/badge/Localization-%230E0F2F.svg?style=for-the-badge&logo=android&logoColor=white"
         alt="Localization">
+<ul>
+    <li><strong>Java/Kotlin in Android Studio</strong>: Extensive experience in building robust Android applications, optimizing performance, and ensuring best practices in code.</li>
+    <li><strong>XML Framework</strong>: Proficient in creating responsive and dynamic UIs for Android apps using XML layouts.</li>
+    <li><strong>UX/UI in Figma</strong>: Strong design sense with hands-on experience in prototyping and designing user interfaces that enhance user experience.</li>
+    <li><strong>Lottie Animation in Adobe After Effects</strong>: Skilled in creating and integrating Lottie animations to bring interactive elements to life within Android applications.</li>
+    <li><strong>Macros in Excel</strong>: Developed advanced macros to automate repetitive tasks and improve efficiency in data management.</li>
+    <li><strong>VB.NET</strong>: Experienced in building desktop applications and scripts to solve specific business needs and automate processes.</li>
+    <li><strong>Android Jetpack Components</strong>: Proficient in using Jetpack components like LiveData, ViewModel, Navigation, and Room to build modern and maintainable Android apps.</li>
+    <li><strong>Coroutines in Kotlin</strong>: Experience in implementing asynchronous tasks using Kotlin Coroutines, ensuring smooth and responsive applications.</li>
+    <li><strong>Firebase Integration</strong>: Skilled in integrating Firebase services such as Firestore, Realtime Database, Authentication, and Cloud Messaging for backend and real-time data solutions.</li>
+    <li><strong>RESTful API Development</strong>: Expertise in developing and consuming RESTful APIs using Retrofit, OkHttp, and Gson for efficient network communication.</li>
+    <li><strong>Git & Version Control</strong>: Experienced in using Git for source control management, with a solid understanding of branching, merging, and pull requests.</li>
+    <li><strong>Dependency Injection (Dagger Hilt/Koin)</strong>: Proficient in implementing dependency injection using Dagger Hilt or Koin, promoting modularity and testability in Android applications.</li>
+    <li><strong>CI/CD Pipelines (Jenkins/GitHub Actions)</strong>: Experience in setting up and maintaining CI/CD pipelines to automate testing, building, and deployment of applications.</li>
+    <li><strong>Unit Testing & TDD</strong>: Strong knowledge in writing unit tests using JUnit, Mockito, and practicing Test-Driven Development (TDD) to ensure high-quality code.</li>
+    <li><strong>GraphQL</strong>: Understanding of GraphQL principles and experience in querying and integrating GraphQL APIs in mobile applications.</li>
+    <li><strong>Cloud Services (AWS/GCP)</strong>: Familiarity with deploying and managing applications using cloud platforms like AWS and Google Cloud Platform.</li>
+    <li><strong>Multithreading & Concurrency</strong>: Expertise in handling multithreaded operations in Android, ensuring optimal performance and responsiveness.</li>
+    <li><strong>Custom Views & Animations</strong>: Skilled in creating custom views and implementing advanced animations to enhance user experience in Android apps.</li>
+    <li><strong>Proguard & Code Obfuscation</strong>: Experience in using Proguard to obfuscate code, reduce APK size, and protect applications from reverse engineering.</li>
+    <li><strong>MVVM Architecture</strong>: Proficient in implementing Model-View-ViewModel (MVVM) architecture for building scalable and maintainable Android applications.</li>
+    <li><strong>Bluetooth & NFC</strong>: Knowledgeable in integrating Bluetooth and NFC functionalities for creating connected and contactless experiences within apps.</li>
+    <li><strong>Data Binding & View Binding</strong>: Hands-on experience with data binding and view binding techniques to simplify and optimize UI development in Android.</li>
+    <li><strong>SQLite & Room Database</strong>: Strong understanding of using SQLite and Room for efficient local data storage and retrieval in Android applications.</li>
+    <li><strong>Push Notifications (FCM/APNs)</strong>: Experienced in implementing push notifications using Firebase Cloud Messaging (FCM) or Apple Push Notification Service (APNs).</li>
+    <li><strong>Augmented Reality (ARCore/ARKit)</strong>: Familiarity with developing augmented reality experiences using ARCore for Android or ARKit for iOS.</li>
+    <li><strong>Security Best Practices</strong>: Knowledge of implementing security best practices, including encryption, secure data storage, and protecting user privacy.</li>
+    <li><strong>Performance Optimization</strong>: Skilled in profiling and optimizing applications for better performance, memory usage, and battery efficiency.</li>
+    <li><strong>Serverless Architectures (Firebase Functions/AWS Lambda)</strong>: Understanding of building and deploying serverless functions to handle backend logic without managing servers.</li>
+    <li><strong>A/B Testing & Analytics</strong>: Experience in setting up A/B tests and using analytics tools like Google Analytics or Firebase Analytics to track and optimize user behavior.</li>
+    <li><strong>Accessibility Features</strong>: Knowledgeable in implementing accessibility features to ensure applications are usable by individuals with disabilities.</li>
+    <li><strong>Localization & Internationalization</strong>: Expertise in localizing apps for different languages and regions, making them globally accessible.</li>
+</ul>
+
 </div>
+
+
+
+## Top Languages
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskhurshed&layout=compact&theme=radical&border=true" alt="uskhurshed"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=uskhurshed&show_icons=true&theme=radical#gh-light-mode-only" alt="uskhurshed"/>
 
 <h2>🌐 My Work</h2>
 <ul>
@@ -110,35 +152,15 @@
     <li><a href="https://play.google.com/store/apps/details?id=com.easyapps.zkplayer"><strong>Esse</strong></a>: A powerful media player app offering a rich and immersive audio experience.</li>
 </ul>
 
-### 🏆 Coding Profiles:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="https://www.codewars.com/users/uskhurshed" target="_blank">Codewars</a> |
-    <a href="https://leetcode.com/uskhurshed" target="_blank">LeetCode</a> |
-    <a href="https://stackoverflow.com/users/uskhurshed" target="_blank">Stack Overflow</a>
-</div>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=uskhurshed&show_icons=true&theme=radical"
-    alt="GitHub Stats" width="100%">
-
-## Top Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uskhurshed&theme=radical"
-    alt="Coding Stats" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskhurshed&layout=compact&theme=radical"
-    alt="Top Languages" width="50.5%">
-
 ## Top Repositories
 
-<a href="https://github.com/uskhurshed/Android-Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uskhurshed&repo=Android-Weather-App&theme=radical"
+<a href="https://github.com/uskhurshed/OnlinePlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uskhurshed&repo=OnlinePlayer&theme=radical"
         alt="Top Repositories" width="49%">
 </a>
 
-<a href="https://github.com/uskhurshed/Kotlin-Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uskhurshed&repo=Kotlin-Todo-App&theme=radical"
+<a href="https://github.com/uskhurshed/OnlinePlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uskhurshed&repo=OnlinePlayer&theme=radical"
         alt="Top Repositories" width="49%">
 </a>
 
@@ -160,7 +182,7 @@ I love connecting with new people and exploring new opportunities. Feel free to 
             </a>
         </td>
         <td>
-            <a href="https://t.me/uskhurshed_777">
+            <a href="https://t.me/khurshed_apps">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
                     height="48" width="48" alt="Telegram" />
             </a>
@@ -172,21 +194,9 @@ I love connecting with new people and exploring new opportunities. Feel free to 
             </a>
         </td>
         <td>
-            <a href="https://instagram.com/uskhurshed_777" target="blank"><img align="center"
+            <a href="https://instagram.com/khurshed.apps" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="instagram" height="48" width="48" /></a>
-        </td>
-        <td>
-            <a href="https://wa.me/qr/22PVFQSMQQX4F1">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
-                    height="48" width="48" alt="WhatsApp" />
-            </a>
-        </td>
-        <td>
-            <a href="https://x.com/uskhurshed_777">
-                <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48"
-                    width="48" alt="Twitter" />
-            </a>
         </td>
         <td>
             <a href="mailto:khurshed.apps@gmail.com">
