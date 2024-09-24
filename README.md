@@ -17,11 +17,11 @@
 <p><strong>Position</strong>: Android developer at <a href="https://itservice.tj/" target="_blank">ITService Khujand</a>.<br>
 <strong>Duration</strong>: 11.12.2023 - Present</p>
 <ul>
-    <li>Led the development of cutting-edge Android applications, focusing on performance optimization, UI/UX enhancement, and seamless integration with third-party services.</li>
+    <li>Developed cutting-edge Android applications with a focus on performance optimization, UI/UX improvements, and seamless integration with third-party services.</li>
     <li>Architected scalable and maintainable codebases using MVVM architecture, Jetpack components, and modern Android development practices.</li>
     <li>Collaborated with cross-functional teams, including designers, product managers, and QA, to deliver high-quality apps on time.</li>
-    <li>Mentored junior developers, conducted code reviews, and implemented best practices to ensure code quality and maintainability.</li>
-    <li>Played a key role in integrating advanced features such as machine learning models (TensorFlow Lite), augmented reality (ARCore), and custom animations.</li>
+<li>Code reviews were performed and best practices were implemented to ensure code quality and maintainability.</li>   
+    <li>Played a key role in integrating advanced features such as machine learning models (TensorFlow Lite), augmented reality, and custom animations.</li>
 </ul>
 
 <p><strong>Position</strong>: Android Developer at <a href="https://play.google.com/store/apps/dev?id=7468148183308310395" target="_blank">Easy Apps Ltd.</a>.<br>
