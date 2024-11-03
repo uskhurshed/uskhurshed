@@ -1,13 +1,43 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Khurshed+Usmonov;Android+Developer">
+<div align="center">
+    <a>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0045A6&height=190&section=header&text=Khurshed%20Usmonov&desc=android%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=60&fontAlignY=34&descSize=18&descAlign=80&descAlignY=55"/>
+    </a>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uskhurshed&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
-    align="center" width="100%" />
 
-<p align="center">
-    <img alt="Shaggy's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph/?username=uskhurshed&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
-        align="center" width="100%" />
-</p>
+<div align="center">
+    <a href="https://skyline.github.com/uskhurshed/2023" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=uskhurshed&hide_border=true&stroke=888&ring=0045A6&fire=0045A6&currStreakNum=0045A6&sideNums=888&dates=888&sideLabels=888&currStreakLabel=0045A6&background=0000"
+             title="uskhurshed" 
+             alt="uskhurshed"
+             width="60%"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/uskhurshed?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskhurshed&&layout=compact&hide_border=true&title_color=0045A6&text_color=888&bg_color=0000"
+             title="uskhurshed github repositories"
+             alt="uskhurshed github stats"
+             width="41%"/>
+    </a>
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+     <a href="https://www.codewars.com/users/uskhurshed">
+        <img src="coder.gif"  width="300"/>
+     </a>
+</div>
+<div align="center">
+    <a href="https://www.codewars.com/users/uskhurshed">
+        <img src="https://www.codewars.com/users/uskhurshed/badges/small"
+             title="CodeWars" alt="CodeWars"/>
+    </a>
+</div>
 
 <h1>Hi there! 👋</h1>
 <p>I'm Khurshed.</p>
