@@ -1,13 +1,13 @@
 <div align="center">
     <a>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0045A6&height=190&section=header&text=Khurshed%20Usmonov&desc=android%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=60&fontAlignY=34&descSize=18&descAlign=80&descAlignY=55"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=50C878&text=Khurshed%20Usmonov&fontAlignY=44&textBg=false&desc=android%20developer&section=header&descAlign=77&fontColor=fff"/>
     </a>
 </div>
 
 
 <div align="center">
     <a href="https://skyline.github.com/uskhurshed/2023" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=uskhurshed&hide_border=true&stroke=888&ring=0045A6&fire=0045A6&currStreakNum=0045A6&sideNums=888&dates=888&sideLabels=888&currStreakLabel=0045A6&background=0000"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=uskhurshed&hide_border=true&stroke=85C89B&ring=50C878&fire=50C878&currStreakNum=50C878&sideNums=50C878&dates=fff&sideLabels=85C89B&currStreakLabel=50C878&background=0000"
              title="uskhurshed" 
              alt="uskhurshed"
              width="60%"/>
@@ -16,7 +16,7 @@
 
 <div align="center">
     <a href="https://github.com/uskhurshed?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskhurshed&&layout=compact&hide_border=true&title_color=0045A6&text_color=888&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uskhurshed&&layout=compact&hide_border=true&title_color=A97BFF&text_color=888&bg_color=0000"
              title="uskhurshed github repositories"
              alt="uskhurshed github stats"
              width="41%"/>
