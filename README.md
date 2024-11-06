@@ -27,17 +27,6 @@
 
 <br/>
 
-<div align="center">
-     <a href="https://www.codewars.com/users/uskhurshed">
-        <img src="coder.gif"  width="300"/>
-     </a>
-</div>
-<div align="center">
-    <a href="https://www.codewars.com/users/uskhurshed">
-        <img src="https://www.codewars.com/users/uskhurshed/badges/small"
-             title="CodeWars" alt="CodeWars"/>
-    </a>
-</div>
 
 <h1>Hi there! 👋</h1>
 <p>I'm Khurshed.</p>
